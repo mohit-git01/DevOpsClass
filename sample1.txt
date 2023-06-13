@@ -1,0 +1,2 @@
+Line number 1 for sample1.txt
+Line number 2 for sample1.txt
